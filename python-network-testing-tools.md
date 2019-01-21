@@ -1,0 +1,14 @@
+#### python网络测试工具
+- Scapy，Scapy3k：发送，嗅探和剖析并伪造网络数据包，可以做交互式应用或单纯的作为库来使用。
+- pypcap，pcapy和pylibpcap：几个不同的libpcap捆绑Python库
+- libdnet：低级别的网络路由器，可用于接口查找和以太网帧转发
+- dpkt：快速、轻量级的数据包创建、解析工具，适用于基本TCP/IP协议
+- Impacket：探测和解码网络数据包，支持更高级别协议比如NMB和SMB
+- pynids：libnids封装提供嗅探，IP碎片整理，TCP流重组和端口扫描检测
+- Dirtbags py-pcap：无需libpcap即可读取pcap文件
+- flowgrep：通过正则表达式查找数据包中的Payloads
+- Knock Subdomain Scan：通过字典枚举目标域上的子域名
+- SubBrute：可扩展的TCP/UDP中间代理，支持即时修改非标准协议
+- Pytbull：灵活的IDS/IPS测试框架(配有300多个测试用例)
+- Spoodle：大量子域名+Poodle漏洞扫描器
+- SMBMap：枚举域中的Samba共享驱动器
